@@ -1,5 +1,9 @@
 # 🎵 Spotify Data Analysis
 
+Author: D.SAI VIKAS
+Email: vikassai502@gmail.com  
+GitHub:[https://github.com/](https://github.com/vikas12134) 
+
 
 ## Overview
 This repository contains a comprehensive analysis of Spotify's music dataset. The dataset includes detailed information about songs, artists, genres, release years, streams, and audio features such as danceability, energy, tempo, and duration. The goal is to explore music trends, identify top-performing tracks and artists, and generate insights into song characteristics and listening patterns.
@@ -46,14 +50,6 @@ The dataset contains the following columns (example):
 ## How to Use
 1. Clone the repository:
 ```bash
-
-
-Author: D.SAI VIKAS
-Email: vikassai502@gmail.com  
-GitHub:[https://github.com/](https://github.com/vikas12134) 
-
-
-
-
 git clone https://github.com/yourusername/spotify-data-analysis.git
+
 
